@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.lupamundo/lupamundo",
+  "title": "Lupamundo",
+  "description": "Spanish buying guides for Mexico and LatAm: prices in pesos, exams, eSIM, VPN, courses, wellness",
+  "version": "1.3.0",
+  "websiteUrl": "https://lupamundo.com",
+  "icons": [
+    {
+      "src": "https://lupamundo.com/static/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://lupamundo.com/mcp"
+    }
+  ]
+}
