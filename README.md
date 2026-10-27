@@ -1,5 +1,7 @@
 # Lupamundo MCP server
 
+[![MCP Badge](https://lobehub.com/badge/mcp/lupamundo-lupamundo-mcp)](https://lobehub.com/mcp/lupamundo-lupamundo-mcp)
+
 Spanish buying guides for Mexico and Latin America, for AI assistants: official prices in pesos, English exams
 (IELTS, TOEFL, CELPIP), work and study abroad, online courses, eSIM and travel insurance, VPN and cloud storage,
 evidence-based wellness. Every answer comes from a published, dated and sourced page on [lupamundo.com](https://lupamundo.com).
